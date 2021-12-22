@@ -2,5 +2,15 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Exo_2_BP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
 }
